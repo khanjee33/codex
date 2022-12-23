@@ -1,0 +1,33 @@
+{
+  "name": "client",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  },
+  "main": "script.js",
+  "dependencies": {
+    "has": "^1.0.3",
+    "esbuild": "^0.16.10",
+    "nanoid": "^3.3.4",
+    "picocolors": "^1.0.0",
+    "postcss": "^8.4.20",
+    "path-parse": "^1.0.7",
+    "function-bind": "^1.1.1",
+    "resolve": "^1.22.1",
+    "rollup": "^3.8.1",
+    "source-map-js": "^1.0.2",
+    "is-core-module": "^2.11.0",
+    "supports-preserve-symlinks-flag": "^1.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
